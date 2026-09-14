@@ -11,18 +11,22 @@
   4) SKIN CANCER
   5) TOMATO & APPLE
   6) WEATHER
-### Machine learning(ML)
+## Machine learning(ML)
 ML is a technology that learns patterns from data to make predictions or classifications.
-### SUPERVISED LEARNING
+### classification
+
    1)DIABETES PREDICTION
-   2)MEDICAL INSURANCE
-   3)TITANIC SURVIVAL PREDICTION
+   2)TITANIC SURVIVAL PREDICTION
+### Clustering
+   3)MEDICAL INSURANCE
    4)CUSTOMER SEGMENTATION
-#### UNSUPERVISED LEARNING
+### Regression
+
    1)HOUSE PRICE PREDICTION
    2)LAPTOP PRICE PREDICTION
    3)ADVERTISING
 ## TOOLS AND TECHNOLOGIES
+
 1)Python
 2)Pandas
 3)NumPy
