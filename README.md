@@ -15,23 +15,27 @@
 ML is a technology that learns patterns from data to make predictions or classifications.
 ### classification
 
-   1)DIABETES PREDICTION
-   2)TITANIC SURVIVAL PREDICTION
+   1) DIABETES PREDICTION
+   2) TITANIC SURVIVAL PREDICTION
+   
 ### Clustering
-   3)MEDICAL INSURANCE
-   4)CUSTOMER SEGMENTATION
+
+   1) MEDICAL INSURANCE
+   2) CUSTOMER SEGMENTATION
+   
 ### Regression
 
-   1)HOUSE PRICE PREDICTION
-   2)LAPTOP PRICE PREDICTION
-   3)ADVERTISING
+   1) HOUSE PRICE PREDICTION
+   2) LAPTOP PRICE PREDICTION
+   3) ADVERTISING
+   
 ## TOOLS AND TECHNOLOGIES
 
-1)Python
-2)Pandas
-3)NumPy
+1) Python
+2) Pandas
+3) NumPy
 4) Seaborn
 5) Scikit-learn
-6)Jupyter Notebook
+6) Jupyter Notebook
    
    
